@@ -1,24 +1,24 @@
 This is a Lab exercise of my Machine Learning Specialization certification by Stanford University (Coursera)
 
-**🧭 Notebook Outline**
+# 🧭 Notebook Outline
 
 The following is the structure of the practice notebook covered in this repository:
 
-**Packages**
+*Packages*
 
 Importing necessary libraries for neural network development and visualization.
 
-**ReLU Activation**
+*ReLU Activation*
 
 Understanding and implementing the ReLU (Rectified Linear Unit) activation function.
 
-**Softmax Function**
+*Softmax Function*
 
 Explaining the Softmax function used in multiclass classification.
 
 Exercise 1: Hands-on implementation of Softmax.
 
-**Neural Networks**
+*Neural Networks*
 
 Diving into the core concepts of neural networks.
 
